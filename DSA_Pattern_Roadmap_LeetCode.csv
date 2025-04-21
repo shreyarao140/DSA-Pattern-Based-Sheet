@@ -1,0 +1,56 @@
+Pattern,Difficulty,Problem,Link
+Basics,Easy,Two Sum,https://leetcode.com/problems/two-sum/
+Basics,Easy,Reverse String,https://leetcode.com/problems/reverse-string/
+Basics,Easy,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/
+Basics,Easy,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/
+Basics,Easy,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Sliding Window,Easy,Maximum Average Subarray I,https://leetcode.com/problems/maximum-average-subarray-i/
+Sliding Window,Easy,Permutation in String,https://leetcode.com/problems/permutation-in-string/
+Sliding Window,Medium,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Sliding Window,Medium,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/
+Sliding Window,Hard,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/
+Two Pointers,Easy,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/
+Two Pointers,Easy,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+Two Pointers,Easy,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/
+Two Pointers,Medium,Container With Most Water,https://leetcode.com/problems/container-with-most-water/
+Two Pointers,Medium,3Sum,https://leetcode.com/problems/3sum/
+Fast and Slow Pointers,Easy,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/
+Fast and Slow Pointers,Easy,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list/
+Fast and Slow Pointers,Easy,Happy Number,https://leetcode.com/problems/happy-number/
+Fast and Slow Pointers,Medium,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/
+Fast and Slow Pointers,Medium,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+Backtracking,Medium,Subsets,https://leetcode.com/problems/subsets/
+Backtracking,Medium,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+Backtracking,Medium,Permutations,https://leetcode.com/problems/permutations/
+Backtracking,Medium,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/
+Backtracking,Hard,N-Queens,https://leetcode.com/problems/n-queens/
+Prefix Sum / Hashing,Easy,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/
+Prefix Sum / Hashing,Easy,Two Sum,https://leetcode.com/problems/two-sum/
+Prefix Sum / Hashing,Medium,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/
+Prefix Sum / Hashing,Medium,Continuous Subarray Sum,https://leetcode.com/problems/continuous-subarray-sum/
+Prefix Sum / Hashing,Medium,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/
+Binary Search,Easy,Binary Search,https://leetcode.com/problems/binary-search/
+Binary Search,Easy,Search Insert Position,https://leetcode.com/problems/search-insert-position/
+Binary Search,Medium,Find Peak Element,https://leetcode.com/problems/find-peak-element/
+Binary Search,Medium,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/
+Binary Search,Hard,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/
+Greedy,Easy,Assign Cookies,https://leetcode.com/problems/assign-cookies/
+Greedy,Medium,Jump Game,https://leetcode.com/problems/jump-game/
+Greedy,Medium,Gas Station,https://leetcode.com/problems/gas-station/
+Greedy,Medium,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/
+Greedy,Medium,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+Stack,Easy,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/
+Stack,Easy,Min Stack,https://leetcode.com/problems/min-stack/
+Stack,Medium,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/
+Stack,Medium,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/
+Stack,Hard,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/
+Graphs,Easy,Flood Fill,https://leetcode.com/problems/flood-fill/
+Graphs,Medium,Number of Islands,https://leetcode.com/problems/number-of-islands/
+Graphs,Medium,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/
+Graphs,Medium,Clone Graph,https://leetcode.com/problems/clone-graph/
+Graphs,Medium,Course Schedule,https://leetcode.com/problems/course-schedule/
+Dynamic Programming,Easy,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/
+Dynamic Programming,Easy,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/
+Dynamic Programming,Medium,House Robber,https://leetcode.com/problems/house-robber/
+Dynamic Programming,Medium,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/
+Dynamic Programming,Medium,Coin Change,https://leetcode.com/problems/coin-change/
